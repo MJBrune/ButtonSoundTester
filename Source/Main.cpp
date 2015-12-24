@@ -1,9 +1,9 @@
-#include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
 #include <functional>
 #include <string>
-#include "Button.h"
 #include <windows.h>
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
+#include "Button.h"
 
 std::string openFilename(wchar_t *filter = L"All Files (*.*)\0*.*\0", HWND owner = NULL)
 {

@@ -3,7 +3,7 @@
 #include <string>
 #include <iostream>
 #include <memory>
-#include <functional>;
+#include <functional>
 #include <SFML/Graphics.hpp>
 
 class Button
