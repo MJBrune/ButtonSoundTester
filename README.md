@@ -1,6 +1,10 @@
 # ButtonSoundTester
 A simple system to test sound effects of buttons.
 
+### Download
+
+[Version 0.1](https://github.com/MJBrune/ButtonSoundTester/releases/tag/0.1)
+
 ### Usage
 
 Simply load the program by running the executable.
