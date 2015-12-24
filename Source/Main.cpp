@@ -28,7 +28,7 @@ std::string openFilename(wchar_t *filter = L"All Files (*.*)\0*.*\0", HWND owner
 
 int main()
 {
-	sf::RenderWindow window(sf::VideoMode(800, 600), "Button Sound Tester");
+	sf::RenderWindow window(sf::VideoMode(800, 600), "Button Sound Tester", sf::Style::Close);
 
 	// test button setup
 	Button testButton;
